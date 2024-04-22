@@ -5,3 +5,5 @@
 ```JavaScript
 const person = ['John', 'Jay', 'Jim', 'Jame'];
 ```
+
+ชัยรัตน์ ทรัพย์สนอง (ตูน)
